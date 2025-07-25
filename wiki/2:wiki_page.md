@@ -1,0 +1,34 @@
+Parfait, continuons notre wiki 👨‍💻📘 !
+
+---
+
+# 📊 LeCashVuVu – Structure & Fonctionnement
+
+## 🔁 Organisation du système
+
+LeCashVuVu semble être conçu autour de principes d’interaction virtuelle et de valorisation sociale dans IMVU. Bien que le dépôt GitHub ne donne pas de structure technique complète, on peut imaginer les éléments suivants comme piliers du système :
+
+- **Unités de valeur (“CashVuVu”)** : Peut désigner une monnaie virtuelle ou un système de points basé sur l'activité sociale.
+- **Interactions sociales récompensées** : Les utilisateurs pourraient accumuler des unités via des actions (création de contenu, échanges, événements).
+- **Outils de gestion** : Scripts ou interfaces pour suivre, attribuer ou échanger les valeurs.
+
+---
+
+## 🧩 Composants potentiels
+
+Même sans code source détaillé, on peut envisager ces modules dans une version développée du projet :
+
+| Composant       | Description |
+|----------------|-------------|
+| 💬 Chat Tracker | Mesure des interactions et de l’engagement |
+| 🛍️ Marketplace | Espace d’échange pour objets virtuels |
+| 📈 Tableau de bord | Visualisation des points CashVuVu & activités |
+| 🔐 Authentification | Système de connexion sécurisé pour les utilisateurs |
+
+---
+
+## 🛠️ Scénarios d’usage
+
+1. **Utilisateur Actif** : Gagne des unités CashVuVu en participant à des discussions ou en animant des événements virtuels.
+2. **Créateur de contenu** : Propose des accessoires ou avatars à vendre dans la marketplace en échange de CashVuVu.
+3. **Modérateur** : Peut attribuer ou retirer des points selon la qualité d’interaction sociale.
