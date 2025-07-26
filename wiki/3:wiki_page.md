@@ -12,6 +12,8 @@ LeCashVuVu propose une réflexion autour de l’économie numérique sociale dan
 - Créer un **écosystème économique** participatif et évolutif.
 - Donner de la valeur aux échanges non-financiers (présence, entraide, créativité).
 
+Tous "CashVuVu" sera stocké dans une Base de données pour les participants. 
+Toute autre éthique rencontrera cet éthique.
 ---
 
 ## 🪙 Fonctionnement de la monnaie CashVuVu
